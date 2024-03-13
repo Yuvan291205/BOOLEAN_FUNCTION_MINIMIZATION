@@ -53,13 +53,17 @@ endmodule
 ```
 
 **RTL realization**
-![alt text](exp_22.jpg)
+![exp_22](https://github.com/Yuvan291205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849170/be307360-7eda-44f5-937b-7cdb50c75180)
+
 
 **RTL**
-![alt text](FAF.jpg)
+![FAF](https://github.com/Yuvan291205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849170/18a918a3-5b3f-4e71-9b28-388a47004232)
+
 
 **Timing Diagram**
-![alt text](<Screenshot 2024-03-10 174903.png>)
+![Screenshot 2024-03-10 174903](https://github.com/Yuvan291205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849170/b06b92fd-c8ae-4e4e-9674-785a57ce3f75)
+
+
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
